@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as an intern at SHPIK NextGen ImpactMakers.<br>I'm currently learning React.js.
+👨‍💻 I'm currently working as an intern at SHPIK NextGen ImpactMakers.<br>✅ I'm currently learning React.js.
 
 
 ## 🌐 Socials:
